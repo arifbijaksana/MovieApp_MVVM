@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="image_movie_poster">Image Movie Poster</string>
+    <string name="data_tidak_ditemukan">Data Tidak Ditemukan</string>
+    <string name="data_gagal_dimuat">Data Gagal Dimuat</string>
+    <string name="try_again">Try Again</string>
+    <string name="movie_tidak_ditemukan">Movie tidak ditemukan</string>
+    <string name="favorite">Favorite</string>
+    <string name="movie">Movie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="result_couldnot_be_loaded">Result Couldnot be loaded</string>
+    <string name="retry">Retry</string>
+    <string name="search_movies">Search Movies</string>
+    <string name="dashboard_image">Dashboard Image</string>
+</resources>
